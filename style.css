@@ -1,0 +1,68 @@
+#Welcome {
+    background: linear-gradient(#eb5234 0%, #e3e017 100%);
+    width: 100%;
+    text-align: center;
+    z-index: 99;
+}
+
+#Welcomeimage {
+    height: 200px;
+    border-radius: 50%
+}
+
+#Welcometext {
+    color: white;
+    font-size: 30px;
+}
+.line {
+    background-color : brown;
+    height: 10px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+#Des {
+    color: white;
+}
+#Menu {
+    list-style: none;
+    top: 10px;
+    position: absolute;
+    right: 50px;
+    z-index: 100;
+    cursor:pointer;
+}
+.links {
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+.links:hover {
+    font-size: 40px;
+}
+#About {
+   background: linear-gradient(#3273a8 0%, #25effa 100%); 
+}
+h1 {
+    color: white;
+}
+#Des {
+    color: white;
+}
+
+#Coding {
+  background: linear-gradient(#8403fc 0%, #d203fc 100%);
+    width: 100%;
+    text-align: center;
+    z-index: 99;  
+}
+#Works {
+    background: linear-gradient(#199e3d 0%, #87f542 100%);
+    width: 100%;
+    text-align: center;
+    z-index: 99;  
+}
